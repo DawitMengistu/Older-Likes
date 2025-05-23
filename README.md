@@ -28,7 +28,7 @@ It does **not**:
 
 Once installed, just open TikTok and go to your "Liked" videos page. The extension will assist with scrolling to load more content.
 
-## ⚖️ Privacy Policy
+## ⚖️ Privacy Policy (#privacy-policy)
 
 We take your privacy seriously. The **Older-Likes** extension:
 
