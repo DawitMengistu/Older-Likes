@@ -1,6 +1,7 @@
 # Older-Likes
 
 **Older-Likes** is a lightweight Chrome extension that helps you scroll back and view your previously liked TikTok videos more easily.
+- [Privacy Policy](#privacy-policy)
 
 ## 🔍 Features
 
@@ -40,13 +41,3 @@ We take your privacy seriously. The **Older-Likes** extension:
 By using this extension, no data ever leaves your device.
 
 If you have any concerns, feel free to open an issue in the repository.
-
----
-
-## 📧 Contact
-
-For questions or feedback, please reach out at: [your-email@example.com]
-
----
-
-> This extension is not affiliated with or endorsed by TikTok. TikTok is a trademark of ByteDance Ltd.
